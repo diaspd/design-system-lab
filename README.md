@@ -12,9 +12,12 @@
 
 <br>
 
-<h1 align="center">
+
+<H2> Link to components: https://diaspd.github.io/design-system/?path=/story/components </h2>
+
+<div align="center">
   <img alt="image" title="" src="Screenshot_1.png" width="100%" />
-</h1>
+</div>
 
 ## 🚀 Getting started
 
