@@ -13,7 +13,7 @@
 <br>
 
 
-<H2> Link to components: https://diaspd.github.io/design-system/?path=/story/components </h2>
+<H2>Link to components: https://diaspd.github.io/design-system/?path=/story/components</h2>
 
 <div align="center">
   <img alt="image" title="" src="Screenshot_1.png" width="100%" />
