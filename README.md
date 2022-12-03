@@ -23,10 +23,8 @@
 
 Clone the project and access the folder.
 
-### Web
-
 ```bash
-$ https://github.com/diaspd/design-system.git
+$ git clone https://github.com/diaspd/design-system.git
 
 # Install the dependencies
 $ npm install
