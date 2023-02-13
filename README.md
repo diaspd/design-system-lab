@@ -34,7 +34,8 @@ $ npm run dev
 $ npm run storybook
 
 ```
-The app will be available on `http://localhost:5500/`
+The app will be available on `http://localhost:5500/` <br/>
+and the components on `http://localhost:6006/`
 <br></br>
 
 ## 💻 Technologies
