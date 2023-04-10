@@ -2,7 +2,7 @@
   Design System
 </h1>
 
-<br></br>
+</br>
 
 <p align="center">
   <a href="#-Technologies"><b>Technologies</b></a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
@@ -10,8 +10,7 @@
   <a href="#-Layout"><b>Layout</b></a>&nbsp;&nbsp;&nbsp;
 </p>
 
-<br>
-
+</br>
 
 <H3>Link to components: https://diaspd.github.io/design-system/?path=/story/components</h3>
 
