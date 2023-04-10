@@ -49,6 +49,7 @@ This project was developed with the following technologies:
 - Storybook
 - Figma
 
+<br></br>
 
 ## 📄 Project
 💰 Project made about Desing System.
