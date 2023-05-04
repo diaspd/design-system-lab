@@ -12,7 +12,7 @@
 
 </br>
 
-<H3 align="center">Link to components: <a href="https://diaspd.github.io/design-system-lab/" target="blank">Design System Lab</a></h3>
+<H3 align="center">Link to components: <a href="https://diaspd.github.io/design-system-lab/" target="_blank">Design System Lab</a></h3>
 
 <div align="center">
   <img alt="image" title="" src="Screenshot_1.png" width="100%" />
