@@ -15,7 +15,7 @@
 <H3 align="center">Link to components: <a href="https://diaspd.github.io/design-system-lab/" target="_blank">Design System Lab</a></h3>
 
 <div align="center">
-  <img alt="image" title="" src="Screenshot_1.png" width="100%" />
+  <img alt="image" title="" src="./public/template.png" width="100%" />
 </div>
 
 ## 🚀 Getting started
