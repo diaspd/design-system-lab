@@ -2,7 +2,7 @@
   Design System
 </h1>
 
-</br>
+<h2 align="center">Link to components: <a href="https://diaspd.github.io/design-system-lab/" target="_blank">Design System Lab</a></h2>
 
 <p align="center">
   <a href="#-Technologies"><b>Technologies</b></a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
@@ -10,9 +10,7 @@
   <a href="#-Layout"><b>Layout</b></a>&nbsp;&nbsp;&nbsp;
 </p>
 
-</br>
-
-<h3 align="center">Link to components: <a href="https://diaspd.github.io/design-system-lab/" target="_blank">Design System Lab</a></h3>
+---
 
 <div align="center">
   <img alt="image" title="" src="./public/template.png" width="100%" />
