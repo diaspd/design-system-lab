@@ -13,7 +13,7 @@
 ---
 
 <div align="center">
-  <img alt="image" title="" src="./public/template.png" width="100%" />
+  <img alt="image" title="" src="./public/template.png" width="80%" height="50%" />
 </div>
 
 ## 🚀 Getting started
